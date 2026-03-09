@@ -1,7 +1,4 @@
-- [Introduction](#introduction)
-- [Information](#information)
-- [Hypothesis](#hypothesis)
-- [Conclusion](#conclusion)
+You may also [read this here](https://mergen.yazga.dev/en/quantum_pressure_en)
 
 ## Introduction
 
